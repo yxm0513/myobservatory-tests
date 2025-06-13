@@ -95,10 +95,9 @@ Here is the designed test automation solution for the MyObservatory app using Py
 
 ## Time Spent
 
-- Research and design: 2 hours
-- Implementation: 1 hours
-- Testing and debugging: 3 hour
+- Research and design: 1 hours
+- Implementation, Testing and debugging: 2.5 hour
 - Documentation: 0.5 hour
-- Total: ~6.5 hours
+- Total: ~4 hours
 
 This solution provides a robust framework for both UI and API testing with good separation of concerns, clear reporting, and maintainable structure. The BDD approach makes the tests readable for non-technical stakeholders as well.
