@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"../features/9day_forecast.feature: Verify 9th day forecast is displayed","29785","test_9day_forecast","tests.features.steps","Fri Jun 13 22:38:38 CST 2025","passed","Fri Jun 13 22:39:08 CST 2025","","test_9day_forecast","",""
+"","382","test_day_after_tomorrow_humidity","tests.api","Fri Jun 13 22:38:38 CST 2025","passed","Fri Jun 13 22:38:38 CST 2025","","test_hko_api","",""
+"","1519","test_api_status","tests.api","Fri Jun 13 22:38:36 CST 2025","passed","Fri Jun 13 22:38:38 CST 2025","","test_hko_api","",""
