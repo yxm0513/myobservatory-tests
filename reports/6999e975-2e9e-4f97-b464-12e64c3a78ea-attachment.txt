@@ -1,0 +1,14 @@
+test failed: failed to skip ad page
+clicking exit button, attempt 3
+clicking exit button, attempt 4
+Forecast & Warning Services
+9-Day Forecast
+The 9th day info: 22 June
+Sunday
+
+Temperature will range between 28 and 32 degree Celsius
+Relative Humidity will range between 65 and 90 percent
+Probability of Significant Rain will be Low
+South force 3 to 4.
+Hot with sunny periods and one or two showers.
+
